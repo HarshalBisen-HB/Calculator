@@ -1,10 +1,10 @@
 # Calculator
 
-A sleek and responsive calculator web application built with HTML, CSS, and JavaScript. This project is perfect for beginners learning front-end web development, demonstrating fundamental concepts of DOM manipulation, event handling, and responsive design.
+->A sleek and responsive calculator web application built with HTML, CSS, and JavaScript. This project is perfect for beginners learning front-end web development, demonstrating fundamental concepts of DOM manipulation, event handling, and responsive design.
 
 ![image](https://github.com/user-attachments/assets/105adc2b-04d9-42d6-a9d9-1e5dc02d0f01)
 
-# Features
+## Features
 
 Clean, modern UI with a gradient background
 Responsive design that works on both desktop and mobile devices
@@ -17,12 +17,13 @@ Delete and Clear functionality
 
 
 
-#Technologies Used
+## Technologies Used
 HTML5
 CSS3
 JavaScript (ES6+)
 
-#Project Structure
+## Project Structure
+```
 calculator/
 │
 ├── index.html      # Main HTML file
@@ -30,10 +31,10 @@ calculator/
 ├── script.js       # JavaScript functionality
 └── README.md       # Project documentation
 
+```
 
-
-#Key Learning Points
-
+## Key Learning Points
+```
 -->HTML
 
 Semantic HTML structure
@@ -59,3 +60,20 @@ Mathematical operations
 Error handling
 Regular expressions
 String manipulation
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
