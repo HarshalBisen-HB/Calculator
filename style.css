@@ -8,13 +8,11 @@ body {
   margin: 6px;
   color: #333;
 }
-
 .container {
   width: 100%;
   max-width: 375px;
   padding: 20px;
 }
-
 .calculator {
   background: rgba(255, 255, 255, 0.95);
   border-radius: 20px;
@@ -22,7 +20,6 @@ body {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(10px);
 }
-
 .brand {
   text-align: center;
   font-size: 1.5rem;
@@ -31,14 +28,12 @@ body {
   font-weight: 600;
   letter-spacing: 1px;
 }
-
 .display {
   display: flex;
   flex-direction: column;
   gap: 10px;
   margin-bottom: 25px;
 }
-
 .display input {
   border: none;
   outline: none;
@@ -51,24 +46,20 @@ body {
   width: 100%;
   box-sizing: border-box;
 }
-
 #history {
   font-size: 1rem;
   color: #666;
   height: 30px;
 }
-
 #result {
   height: 60px;
   font-weight: bold;
 }
-
 .buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 12px;
 }
-
 button {
   height: 65px;
   border: none;
@@ -80,40 +71,33 @@ button {
   color: #333;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
-
 button:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
 }
-
 button:active {
   transform: translateY(0);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
-
 .btn-function {
   background: #cecdcd;
   color: #764ba2;
   font-weight: bold;
 }
-
 .btn-operator {
   background: #764ba2;
   color: white;
 }
-
 .btn-equal {
   background: #667eea;
   color: white;
   grid-column: span 2;
 }
-
 @media (max-width: 480px) {
   .container {
     padding: 10px;
   }
-
-  button {
+button {
     height: 55px;
     font-size: 1.2rem;
   }
