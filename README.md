@@ -18,8 +18,8 @@ Delete and Clear functionality
 
 
 ## Technologies Used
-HTML5<br/>
-CSS3<br/>
+HTML 5<br/>
+CSS 3<br/>
 JavaScript (ES6+)<br/>
 
 ## Project Structure
